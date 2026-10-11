@@ -1,4 +1,4 @@
-# 骷髅女孩 (Skullgirls) 汉化重制项目
+# 骷髅女孩 (Skullgirls) 汉化重制项目（已放弃，希望有缘人接手
 
 作者：A.Aitherine　　许可证：MIT（见 LICENSE）
 
