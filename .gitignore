@@ -1,0 +1,13 @@
+# 游戏本体与测试产物，不要提交
+*.gfs
+*.gfs.sgbak
+*.dds
+Skullgirls.exe
+_sg_chs_backup_v2/
+_sg_backup/
+*.dmp
+*.exe.sgbak
+__pycache__/
+*.pyc
+# 允许提交的二进制：补丁程序本体
+!Skullgirls_Han_Patch.exe
